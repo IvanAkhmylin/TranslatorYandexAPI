@@ -1,2 +1,2 @@
 # TranslatorYandexAPI
-This is my realization of YANDEX.TRANSLATE API 
+This is my implementation of Yandex.Translate API  
